@@ -1,4 +1,4 @@
-# .github/workflows/lint.yml
+# .github/workflows/lint-with-pull-request.yml
 
 name: Lint 
 
