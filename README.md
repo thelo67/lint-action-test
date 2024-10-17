@@ -11,9 +11,9 @@ Hei @thelo67
 <details>
 <summary>Piilotettavia asioita</summary>
 <br>
-- [Asia 1]
-- [Asia 2]
-- [Asia 3]
+1. [Asia 1]
+2. [Asia 2]
+3. [Asia 3]
 </details>
 
 > [!NOTE]
